@@ -35,7 +35,7 @@ Users should be able to:
 
 
 - Solution URL: [GitHub](https://github.com/monasr1997/product-preview-card-component-main/)
-- Live Site URL: [live site URL ](https://product-preview-card-component-main-001.netlify.app/)
+- Live Site URL: [live site URL ](https://product-preview-card-component-main-1.netlify.app/)
 
 ## My process
 
